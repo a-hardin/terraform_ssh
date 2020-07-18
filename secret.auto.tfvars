@@ -1,0 +1,6 @@
+profile="default"
+region = "us-east-1"
+ssh_public_key_path="~/.ssh/id_rsa.pub"
+ssh_private_key_path="~/.ssh/id_rsa"
+ami_id="ami-0a63f96e85105c6d3"
+public_ip_address="192.168.0.1/32"
