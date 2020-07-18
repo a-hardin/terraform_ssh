@@ -44,8 +44,12 @@ When prompted about the ECDSA key fingerprint type:
 ```bash
 yes
 ```
-
 You will now be inside the AWS EC2 instance.
+
+To remove all changes made to AWS execute the following:
+```bash
+terraform destroy
+```
 
 ## Errors
 
